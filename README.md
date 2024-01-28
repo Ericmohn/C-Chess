@@ -1,5 +1,5 @@
 ![Captura de tela 2024-01-28 164030](https://github.com/Ericmohn/C-Chess/assets/68788167/cc5039f9-9413-4733-8d11-b994de82c209)
-## C# Chess game with all of the rules implemented.
+## 1v1 local C# Chess game with all of the rules implemented.
 Pawn Double Move, 
 Pawn Promotion, 
 En Passant, 
